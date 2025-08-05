@@ -13,7 +13,7 @@ header {
 
 ul {
    list-style: none;
-   font-style: bold;
+   font-weight: bold;
 }
 
 header h1 {
@@ -46,7 +46,7 @@ section h3 {
    font-size: 1.2rem;
    margin-bottom: 10px;
    text-align: center;
-   font-style: bold;
+   font-weight: bold;
 }
 
 section p {
